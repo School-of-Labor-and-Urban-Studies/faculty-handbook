@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfaculty_handbook=self.webpackChunkfaculty_handbook||[]).push([[7277],{107:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/faculty-handbook/blog/tags/facebook","allTagsPath":"/faculty-handbook/blog/tags","count":1}')}}]);
