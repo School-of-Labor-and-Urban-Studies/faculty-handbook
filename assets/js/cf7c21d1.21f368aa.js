@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfaculty_handbook=self.webpackChunkfaculty_handbook||[]).push([[7448],{5401:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/faculty-handbook/blog/tags/hello","allTagsPath":"/faculty-handbook/blog/tags","count":2}')}}]);
